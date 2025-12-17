@@ -9,5 +9,6 @@
 - Kali linux
 - Ubentu/Suricata server
 - Metasploitable 2
-- 
+  # Begginer Learning Path
+  -TyHackMe
 My cybersecurity learning journey - labs, reports, and projects
