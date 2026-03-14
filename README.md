@@ -6,9 +6,7 @@
 - Preparing for cybersecurity internships
 
 - # Lab Environment
-- Kali linux
-- Ubentu/Suricata server
-- Metasploitable 2
-  # Begginer Learning Path
+- Kali Linux
+  # Beginner Learning Path
   -TyHackMe
 My cybersecurity learning journey - labs, reports, and projects
